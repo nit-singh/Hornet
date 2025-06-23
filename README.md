@@ -13,7 +13,7 @@ MAVSDK, MAVLink, PID Controller
 ROS (Robot Operating System), OpenCV
  2D LiDAR, Gazebo (for simulation & testing)
  
-#Highlights
+# Highlights
 Implemented real-time sensor fusion to enable smooth and responsive navigation
 Developed and tested control algorithms in simulation before real-world deployment
- Designed with modularity to support upgrades like 3D mapping or object tracking
+Designed with modularity to support upgrades like 3D mapping or object tracking
